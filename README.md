@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vhxzada/vhxzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Veagah 👋
 
-Here are some ideas to get you started:
+```c
+#include <stdio.h>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+    printf("Hello, I'm Veagah.\n");
+    printf("Currently building things with C.\n");
+    printf("Learning, breaking, fixing, repeating.\n");
+
+    return 0;
+}
+```
+
+</div>
+
+---
+
+## About me
+
+- 💻 Focused on C development
+- 🌑 Minimalist style
+- 🚀 Always learning and improving
+- ⚡ Turning coffee into code
+
+---
+
+## Tech Stack
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=c,linux,git,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vhxzada&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhxzada&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code. Compile. Fail. Fix. Repeat."*
+
+</div>
