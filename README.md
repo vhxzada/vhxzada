@@ -1,6 +1,8 @@
 <div align="center">
 
-# VeagahX
+<img src="./assets/1500x500.jpeg" width="100%" />
+
+# Veagah 👋
 
 ```c
 #include <stdio.h>
@@ -20,14 +22,17 @@ int main() {
 
 ## About me
 
-- Focused on C development
+* 💻 Focused on C development
+* 🌑 Minimalist dark style
+* 🚀 Always learning
+* ⚡ Turning coffee into code
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=c,linux,git,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,linux,git,vscode" />
 </p>
 
 ---
