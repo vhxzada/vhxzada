@@ -18,15 +18,13 @@ int main() {
     return 0;
 }
 ```
-## GitHub Stats
+---
 
-<div align="center">
+## Tech Stack
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vhxzada&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhxzada&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=c,linux,git,vscode" />
+</p>
 
 ---
 
