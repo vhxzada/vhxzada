@@ -23,7 +23,7 @@ int main() {
 ## Tech Stack
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,linux,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,vscode" />
 </p>
 
 ---
