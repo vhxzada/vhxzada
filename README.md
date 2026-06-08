@@ -1,6 +1,6 @@
 <div align="center">
 
-# Veagah 👋
+# VeagahX
 
 ```c
 #include <stdio.h>
@@ -20,10 +20,7 @@ int main() {
 
 ## About me
 
-- 💻 Focused on C development
-- 🌑 Minimalist style
-- 🚀 Always learning and improving
-- ⚡ Turning coffee into code
+- Focused on C development
 
 ---
 
